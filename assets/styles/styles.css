@@ -1,0 +1,57 @@
+body {
+	background: #aab2bc;
+}
+
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    overflow: hidden;
+}
+
+li {
+    display: inline;
+}
+
+
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #84e1a8;
+    color: #182e49;
+}
+
+#johnAndMiriam {
+	width: auto;
+	height: 400px;
+	left: 400px;
+    top: 20px;
+	padding-top: 75px;
+	position: fixed;
+	z-index: -1;
+}
+
+#overLay {
+	width: auto;
+	height: 800px;
+	position: relative; 
+}
+
+#about {
+	background-color: #182e49; 
+	color: #aab2bc;
+	padding-top: 100px;
+	padding-right: 300px;
+	padding-left: 300px
+
+	margin-top: 10px;
+}
+
+
