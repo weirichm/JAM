@@ -30,8 +30,8 @@ li a:hover {
 
 #johnAndMiriam {
 	width: auto;
-	height: 400px;
-	left: 400px;
+	height: 600px;
+	left: 175px;
     top: 20px;
 	padding-top: 75px;
 	position: fixed;
@@ -47,11 +47,11 @@ li a:hover {
 #about {
 	background-color: #182e49; 
 	color: #aab2bc;
-	padding-top: 100px;
-	padding-right: 300px;
-	padding-left: 300px
-
-	margin-top: 10px;
+	margin-left: 620px;
+	padding: 20px;
+	background-size: 150px;
+ 	width: 600px;
+  	height: 150px;
 }
 
 
