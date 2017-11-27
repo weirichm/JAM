@@ -91,17 +91,170 @@ h3 {
 	display: block;
 	margin: auto;
 	position: static;
-	margin-top: 20px;
+	margin-top: 50px;
 	margin-bottom: 20px;
 }
 
-#johnAndMiriam {
-	width: 250px;
+#johnAndMiriamDrawing {
+	width: 300px;
 	height: auto;
 	display: block;
 	margin: auto;
 	position: static;
-	margin-top: -40px;
+	margin-top: 50px;
+}
+
+#gifts {
+	position: relative;
+	background-color: #182e49; 
+	font-family: helvetica;
+	color: #aab2bc;
+	display: block;
+	top: 200px;
+	margin: auto;
+	padding: 20px;
+ 	width: 700px;
+  	height: 300px;
+  	opacity: 0.9;
+  	text-align: center;
+}
+
+#underLay {
+	width: auto;
+	height: 800px;
+	position: fixed;
+	z-index: -1; 
+}
+
+.registryButton {
+    background-color: #fd4906;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    align-items: center;
+    font-size: 16px;
+    opacity: 1;
+}
+
+.registryButton {
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+
+.registryButton:hover {
+    background-color: #84e1a8; 
+    color: #182e49;
+}
+
+#map {
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 400px;
+	height: auto;
+}
+
+#parking {
+	position: static;
+	background-color: #182e49; 
+	font-family: helvetica;
+	color: #aab2bc;
+	display: block;
+	top: 200px;
+	margin: auto;
+	padding: 20px;
+ 	width: 700px;
+  	height: 160px;
+  	text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+
+    #johnAndMiriam {
+    left:30px;
+	width: 300px;
+	height: auto;
+    top: 20px;
+	padding-top: 20px;
+	position: relative;
+	}
+
+	#overLay {
+	width: auto;
+	height: 450px;
+	position: relative;
+	position: fixed;
+	z-index: -1; 
+	}
+
+	#about {
+	background-color: #182e49; 
+	font-family: helvetica;
+	color: #aab2bc;
+	display:block;
+	margin: auto;
+	padding: 20px;
+ 	width: 250px;
+  	height: 200px;
+  	position: static;
+	}
+
+	br {
+    display: none;
+	}
+
+	li {
+	margin: 20px;
+	padding-bottom: 20px;
+	}
+
+	#gifts {
+	position: relative;
+	background-color: #182e49; 
+	font-family: helvetica;
+	color: #aab2bc;
+	display: block;
+	top: 50px;
+	margin: auto;
+	padding: 20px;
+ 	width: 250px;
+  	height: 400px;
+  	opacity: 0.9;
+  	text-align: center;
+	}
+
+	.registryButton {
+    background-color: #fd4906;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+	margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    align-items: center;
+    font-size: 16px;
+    opacity: 1;
+	}
+
+	#parking {
+	position: static;
+	background-color: #182e49; 
+	font-family: helvetica;
+	color: #aab2bc;
+	display: block;
+	top: 200px;
+	margin: auto;
+	padding: 20px;
+ 	width: 300px;
+  	height: 160px;
+  	text-align: center;
+	}
+
 }
 
 
