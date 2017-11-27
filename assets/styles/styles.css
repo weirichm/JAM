@@ -174,7 +174,7 @@ h3 {
 
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
-   #overLay, #parking, #gifts {
+    #parking, #gifts {
     width:90%;
     height: auto;
   }
@@ -225,6 +225,10 @@ h3 {
     align-items: center;
     font-size: 16px;
     opacity: 1;
+	}
+
+	#gifts {
+		margin-top: 10px;
 	}
 	
 }
