@@ -189,11 +189,7 @@ h3 {
 	}
 
 	#overLay {
-	width: auto;
-	height: 450px;
-	position: relative;
-	position: fixed;
-	z-index: -1; 
+	display: none; 
 	}
 
 	#about {
