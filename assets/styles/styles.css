@@ -172,7 +172,11 @@ h3 {
   	text-align: center;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+   #overLay, #overLay, #parking, #gifts {
+    width:90%;
+  }
 
     #johnAndMiriam {
     left:30px;
@@ -201,7 +205,7 @@ h3 {
  	width: 250px;
   	height: 200px;
   	position: static;
-	}
+	} 
 
 	br {
     display: none;
@@ -210,21 +214,6 @@ h3 {
 	li {
 	margin: 20px;
 	padding-bottom: 20px;
-	}
-
-	#gifts {
-	position: relative;
-	background-color: #182e49; 
-	font-family: helvetica;
-	color: #aab2bc;
-	display: block;
-	top: 50px;
-	margin: auto;
-	padding: 20px;
- 	width: 250px;
-  	height: 400px;
-  	opacity: 0.9;
-  	text-align: center;
 	}
 
 	.registryButton {
@@ -241,20 +230,7 @@ h3 {
     opacity: 1;
 	}
 
-	#parking {
-	position: static;
-	background-color: #182e49; 
-	font-family: helvetica;
-	color: #aab2bc;
-	display: block;
-	top: 200px;
-	margin: auto;
-	padding: 20px;
- 	width: 300px;
-  	height: 160px;
-  	text-align: center;
-	}
-
+	
 }
 
 
