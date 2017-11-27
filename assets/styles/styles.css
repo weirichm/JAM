@@ -174,8 +174,9 @@ h3 {
 
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
-   #overLay, #overLay, #parking, #gifts {
+   #overLay, #parking, #gifts {
     width:90%;
+    height: auto;
   }
 
     #johnAndMiriam {
@@ -229,7 +230,6 @@ h3 {
     font-size: 16px;
     opacity: 1;
 	}
-
 	
 }
 
