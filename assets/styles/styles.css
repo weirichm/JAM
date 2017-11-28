@@ -40,8 +40,7 @@ li a:hover {
 }
 
 #overLay {
-	width: auto;
-	height: 800px;
+	background: cover;
 	position: relative; 
 }
 
