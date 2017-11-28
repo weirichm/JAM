@@ -40,7 +40,11 @@ li a:hover {
 }
 
 #overLay {
-	background: cover;
+	background-position: center center;
+  	background-repeat: no-repeat;
+  	background-size: contain;
+  	width: 100vw;
+  	height: 100vh;
 	position: relative; 
 }
 
