@@ -208,26 +208,27 @@ h3 {
 	} 
 
 	br {
-    display: none;
+    	display: none;
 	}
 
 	li {
 	margin: 20px;
 	padding-bottom: 20px;
+	display: none;
 	}
 
 	.registryButton {
-    background-color: #fd4906;
-    border: none;
-    color: white;
-    padding: 15px 32px;
+    	background-color: #fd4906;
+    	border: none;
+    	color: white;
+    	padding: 15px 32px;
 	margin: 10px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    align-items: center;
-    font-size: 16px;
-    opacity: 1;
+    	text-align: center;
+    	text-decoration: none;
+    	display: inline-block;
+    	align-items: center;
+    	font-size: 16px;
+    	opacity: 1;
 	}
 
 	#gifts {
