@@ -226,21 +226,11 @@ br {
 
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
-    #parking, #gifts {
+    #parking, #gifts, #johnAndMiriam {
     width:90%;
     height: auto;
   }
 
-#johnAndMiriam {
-	display: block;
-        margin: auto;
-	width: 350px;
-	height: auto;
-        top: 5px;
-	padding-top: 20px;
-	margin-bottom: 10px;
-	position: relative;
-}
 
 #overLay {
 	display: none; 
