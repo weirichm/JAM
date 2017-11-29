@@ -174,7 +174,11 @@ h3 {
  	width: 700px;
   	height: 160px;
   	text-align: center;
-}
+	}
+
+#underLayIndex {
+	display: none;
+	}
 
 @media only screen and (max-width:1030px) {
 
