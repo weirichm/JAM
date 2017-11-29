@@ -129,8 +129,6 @@ h3 {
 	z-index: -1; 
 }
 
-#underLayIndex {
-	display: none;
 
 .registryButton {
     background-color: #fd4906;
@@ -237,8 +235,6 @@ h3 {
 		margin-top: -120px;
 	}
 	
-	#underLayIndex {
-	display: block;
 	
 }
 
