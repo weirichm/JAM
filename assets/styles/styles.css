@@ -237,6 +237,7 @@ br {
 	height: auto;
         top: 20px;
 	padding-top: 20px;
+	margin-bottom: 10px;
 	position: relative;
 }
 
@@ -252,7 +253,7 @@ br {
 	margin: auto;
 	padding: 20px;
  	width: 350px;
-  	height: 150px;
+  	height: 170px;
   	position: static;
 	text-align: center;
 } 
