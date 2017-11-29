@@ -175,6 +175,42 @@ h3 {
   	text-align: center;
 }
 
+@media only screen and (max-width:1030px) {
+
+	#overLay {
+	display: none; 
+	}
+
+	#johnAndMiriam {
+   	left:30px;
+	width: 300px;
+	height: auto;
+    	top: 20px;
+	padding-top: 20px;
+	position: relative;
+	}
+
+	#about {
+	background-color: #182e49; 
+	font-family: helvetica;
+	color: #aab2bc;
+	left: 10px;
+	padding: 20px;
+ 	width: 400px;
+  	height: 200px;
+  	position: absolute;
+	} 
+
+	br {
+    	display: none;
+	}
+
+	li {
+	display: none;
+	}
+
+}
+
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
     #parking, #gifts {
