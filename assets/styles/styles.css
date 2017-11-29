@@ -235,6 +235,17 @@ br {
 #overLay {
 	display: none; 
 	}
+	
+#johnAndMiriam {   
+    display: block;
+    margin: auto;
+    width: 390px;
+    height: auto;
+    top: 100px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    position: static;
+}
 
 #about {
 	background-color: #182e49; 
