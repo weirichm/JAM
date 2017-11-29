@@ -232,8 +232,9 @@ br {
   }
 
 #johnAndMiriam {
-        left:10px;
-	width: 300px;
+	display: block;
+        margin: auto;
+	width: 350px;
 	height: auto;
         top: 5px;
 	padding-top: 20px;
