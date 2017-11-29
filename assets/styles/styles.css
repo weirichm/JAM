@@ -206,6 +206,13 @@ h3 {
 	br {
     	display: none;
 	}
+	
+	#underLayIndex {
+	width: auto;
+	height: 800px;
+	position: fixed;
+	z-index: -1; 
+	}
 
 }
 
@@ -267,6 +274,13 @@ h3 {
 
 	#gifts {
 		margin-top: -120px;
+	}
+	
+	#underLayIndex {
+	width: auto;
+	height: 400px;
+	position: fixed;
+	z-index: -1; 
 	}
 	
 	
