@@ -182,8 +182,8 @@ h3 {
 	}
 
 	#johnAndMiriam {
-   	left:30px;
-	width: 300px;
+   	left:90px;
+	width: 800px;
 	height: auto;
     	top: 20px;
 	padding-top: 20px;
@@ -194,9 +194,9 @@ h3 {
 	background-color: #182e49; 
 	font-family: helvetica;
 	color: #aab2bc;
-	left: 10px;
+	margin-left: 300px;
+        width: 500px;
 	padding: 20px;
- 	width: 400px;
   	height: 200px;
   	position: absolute;
 	} 
